@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My ambition </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <h1 >MY AMBITION</h1> 
+   <!-- <h2>2</h2>
+   <h3>3</h3>
+   <h4>4</h4>
+   <h5>5</h5>
+   <h6>6</h6> -->
+   
+   <img src="https://progradjr.github.io/my-ambition/assets/AvatarMaker.png" alt="my photo" id="pho
+
+   <h2>Nashrah</h2>
+   <p>Hello! My name is Nashrah . I am a mentor at ProGrad Junior. I am in graduation. I live in India. My fav color is black and fav animal is the Lion. I also like to play outdoor games a lot.</p>
+   <h2>My Ambition is to become a Software Developer</h2>
+   <img src="https://progradjr.github.io/my-ambition/assets/developer.jpg" alt="" id="work">
+   <p>I want to become a Software Developer because I have always been curious about new technologies. How the applications run,
